@@ -1,4 +1,3 @@
-# politic-policy
 
 # Jobs
 
