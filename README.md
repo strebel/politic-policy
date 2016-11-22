@@ -1,10 +1,6 @@
 
-# Jobs
-
-# Taxes
-
-# Immigration
-
-# Education
-
-# Marijuana 
+* Jobs
+* Taxes
+* Immigration
+* Education
+* Marijuana 
