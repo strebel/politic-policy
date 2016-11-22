@@ -4,7 +4,7 @@ Marijuana/Cannaibis should be fully legalized for adults 21 or older and decrimi
 
 # Tax 
 
-A significant tax,  $10-$15 / gram, should be levied on all recreational purchases, not including those with sales made to a valid user under the current Medical Marijuna legislation.
+A significant tax,  $20-$25 / gram, should be levied on all recreational purchases, not including those sales made to a valid user under the current Medical Marijuna legislation.
 
 # Tax Revenue
 
