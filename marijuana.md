@@ -1,4 +1,4 @@
-# Marijuana
+# Recreational Marijuana
 
 Marijuana/Cannaibis should be fully legalized for adults 21 or older and decriminalized to a misdeanmour for all minors, except in the case of operating a motor vehicle under the influence. A regulatory and tax structure should be put in place to control distribution and sales.
 
