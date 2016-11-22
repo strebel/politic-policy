@@ -6,7 +6,7 @@ Marijuana/Cannaibis should be fully legalized for adults 21 or older and decrimi
 
 All marijuana/cannibis products sold in the state must be grown/manufactured within the state by licensed state entities owned at least 51% by a state resident. No state licensed grower or distribution entity may have  
 
-* Why - Creates and retains jobs and tax revenue inside the state of Arizona, and prevents the monolopies of "Big Cannibis" type companies.
+* **Why** - Creates and retains jobs and tax revenue inside the state of Arizona, and prevents the monolopies of "Big Cannibis" type companies.
 
 # Tax 
 
@@ -20,11 +20,14 @@ The Revenue from this tax should be allocated in the folling manner.
 
 40% to community public, social, and behavioral health programs that include: 
 * community mental health treatment programs
+* **Why** - Police and Emergency rooms should not be the first line for citizens that are homeless or suffering from mental illness.
 * programs that aim to curb teen drug and acholo abuse
-* ..
+* **Why** - not why needed, it's common sense.
+
 
 40% to the Pre-K thru 12 education budget
-* split evenly among all state school districts
+* split on an weighted scale among all state school districts, favoring the poor districts
+* **Why** - Make sure the districts serving the most at risk youth get the most help 
 * ..
 
 10% to a new Public University tution assitance program 
