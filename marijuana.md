@@ -31,8 +31,9 @@ The Revenue from this tax should be allocated in the folling manner.
 
 40% to the Pre-K thru 12 education budget
 * split on an weighted scale among all state school districts, favoring the poor districts
-* * **Why** - Make sure the districts serving the most at risk youth get the most help 
-* ..
+* * **Why** - Make sure the school districts serving the most at risk youth get the most help. 
+* At least 20% of this 40% is directly aimed at increasing teacher salaries state wide
+* * **Why** - To invest in our kids, we need to invest in and reward great teachers
 
 10% to a new Public University tution assitance program 
 * Tax credits for parents with dependants enrolled in an AZ state 2 or 4 year college.
@@ -40,8 +41,8 @@ The Revenue from this tax should be allocated in the folling manner.
 * ..
 
 5% to the state general fund
-* ..
+* * **Why** - general use 
 
 5% to the state rainy day fund
-* ..
+* * **Why**  - to whether the next econmic downturn without slashing important social programs
 
