@@ -1,6 +1,6 @@
 # Jobs
 
-Tucson Arizona does not need to be the next Silicon Valley, or Austin TX to succeed. But Tucson needs to heavily invest itself it we hope to atract new employers with high paying jobs to the area.
+Tucson and Pima County does not need to be the next Silicon Valley, or Austin TX to succeed. But Tucson needs to heavily invest in itself if we hope to attract new employers with high paying jobs to the area.
 
 Investing in education = Job Growth. Employers consistently ask for the same things:
 
