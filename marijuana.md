@@ -20,14 +20,18 @@ The Revenue from this tax should be allocated in the folling manner.
 
 40% to community public, social, and behavioral health programs that include: 
 * community mental health treatment programs
-* **Why** - Police and Emergency rooms should not be the first line for citizens that are homeless or suffering from mental illness.
+* * **Why** - Police and Emergency rooms should not be the first line for citizens that are homeless or suffering from mental illness.
 * programs that aim to curb teen drug and acholo abuse
-* **Why** - not why needed, it's common sense.
+* * **Why** - it's common sense.
+* programs that aim to address public health concerns for at risk populations
+* * **Why** - Vacinations, AIDS/HIV treatment, teen suicide and pregnancy prevention (no abstience only programs) 
+* programs that educate and rehabiltate ex-criminals that have serverd their time
+* * **Why** - stop the revolving door, job training, life skills, etc.
 
 
 40% to the Pre-K thru 12 education budget
 * split on an weighted scale among all state school districts, favoring the poor districts
-* **Why** - Make sure the districts serving the most at risk youth get the most help 
+* * **Why** - Make sure the districts serving the most at risk youth get the most help 
 * ..
 
 10% to a new Public University tution assitance program 
