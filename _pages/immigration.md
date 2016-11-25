@@ -11,4 +11,6 @@ published: true
 tags: [ ]
 categories: [ ]
 ---
-# Immigration This issues really seems to make the divides in our country apparent..
+<h1>Immigration</h1>
+
+This issues really seems to make the divides in our country apparent..
