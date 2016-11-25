@@ -8,5 +8,7 @@ layout: page
 permalink: >
   http://strebelforaz.com/the-issues/education/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 Fooey
