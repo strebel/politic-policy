@@ -1,4 +1,4 @@
-# Arizona focused, but some bleed over into national 
+# WordPress Page content lives in _pages
 * Jobs
 * Taxes
 * Immigration
