@@ -11,4 +11,4 @@ published: true
 tags: [ ]
 categories: [ ]
 ---
-Fooey
+# Education Teachers are disrespected and underpaid, yet they are vital to the future...
