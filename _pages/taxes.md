@@ -11,3 +11,4 @@ published: true
 tags: [ ]
 categories: [ ]
 ---
+# Taxes Taxes are vital to make our system work, yet tax policy can be unwieldy and filled with too much of the wrong things..
