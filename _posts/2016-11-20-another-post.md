@@ -10,6 +10,6 @@ permalink: >
 published: true
 tags: [ ]
 categories:
-  - Arizona Politics
+  - Arizona
 ---
 <img class="alignnone size-full wp-image-20" src="http://strebelforaz.com/wp-content/uploads/2016/11/Flag-of-Arizona-XL.jpg" alt="flag-of-arizona-xl" width="1500" height="1000" />
