@@ -8,5 +8,7 @@ layout: page
 permalink: >
   http://strebelforaz.com/the-issues/immigration/
 published: true
+tags: [ ]
+categories: [ ]
 ---
 # Immigration This issues really seems to make the divides in our country apparent..
