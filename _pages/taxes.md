@@ -8,4 +8,6 @@ layout: page
 permalink: >
   http://strebelforaz.com/the-issues/taxes/
 published: true
+tags: [ ]
+categories: [ ]
 ---
