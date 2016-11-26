@@ -33,6 +33,9 @@ categories: [ ]
   
   <div class="col-sm-8">
     <div class="card card-block">
+
+https://twitter.com/EdLatimore/status/802550235159465984
+
       <h1>
         Biography
       </h1> First and foremost I'm a person like anyone else with flaws and strengths. Good at a few things, average a most, and lousy at others. I do my best to set a good example for my children and to impact the world in a beneficial way. 
