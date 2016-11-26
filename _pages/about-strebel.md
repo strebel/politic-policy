@@ -25,6 +25,9 @@ categories: [ ]
       <li>
         Husband, Father
       </li>
+      <li>
+        Registered Independent
+      </li>
     </ul>
   </div>
   
