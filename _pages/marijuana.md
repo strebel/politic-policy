@@ -18,5 +18,5 @@ Marijuana/Cannabis should be fully legalized for adults 21 or older and decrimi
 <h2>Tax</h2>
 A significant sales tax should be levied on all recreational purchases. There should also be a corporate tax levied on the profits of all corporations licensed to to conduct business in the state regulated marijuana/cannabis industry. 
 
-</h2>Tax Revenue</h2>
+<h2>Tax Revenue</h2>
 While funding education should be a primary focus, a health percentage of all tax revenue should also be allocated to public health programs serving the disadvantaged, mental health programs, and addressing joblessness.
