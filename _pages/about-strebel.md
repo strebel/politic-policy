@@ -12,7 +12,7 @@ categories: [ ]
 ---
 <div class="row">
   <div class="col-sm-4">
-    <img src="http://strebelforaz.com/wp-content/uploads/2016/11/10701947_10152495951554842_1917571598792799057_n-e1480137887741-300x300.jpg" alt="10701947_10152495951554842_1917571598792799057_n" width="300" height="300" class="alignnone size-medium wp-image-43" /> <ul class="list-unstyled">
+    <img src="http://strebelforaz.com/wp-content/uploads/2016/11/10701947_10152495951554842_1917571598792799057_n-e1480137887741-300x300.jpg" alt="10701947_10152495951554842_1917571598792799057_n" width="300" height="300" class="alignnone size-medium wp-image-43 box-shadow1 img-fluid" /> <ul class="list-unstyled">
       <li>
         Age 38
       </li>
