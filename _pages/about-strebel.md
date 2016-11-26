@@ -12,6 +12,20 @@ categories: [ ]
 ---
 <div class="row">
   <div class="col-sm-4">
+    <ul class="list-unstyled">
+      <li>
+        Age 38
+      </li>
+      <li>
+        BFA Visual Communications - NAU 2003
+      </li>
+      <li>
+        Software - CEO
+      </li>
+      <li>
+        Husband, Father
+      </li>
+    </ul>
   </div>
   
   <div class="col-sm-8">
@@ -34,9 +48,10 @@ categories: [ ]
       
       <a href="https://pagely.com">Pagely</a>) that focuses on Website hosting for large Enterprise companies, institutions of Higher Education, and Major Media companies. We currently employee dozens of high skill technology workers across 5 US states and 4 countries. The road was long and rocky but we did it on our terms, with no outside money, and focused on a simple "Business is Personal" concept that understands our employees are the key to our customer's success. <a href="https://www.linkedin.com/in/jstrebel">LinkedIn Profile</a> <h2>
         Today
-      </h2> Sally and I have been married 13 years, and re-located to the Catalina Foothills on the north side of Tucson, AZ in late 2014. We have two amazing and active young boys that are the perfect illustration of what it would be like to argue with a younger version of yourself about breakfast cereal. We are both active in the day-to-day of our business and like most folks in Tucson enjoy the outdoors - Sally taking walks at Sabino Canyon, and myself enjoying the local Mtn. Bike trails. As a family we have a focus on helping where we can by supporting Tuscon's own Bens Bells Project, St. Jude, CureSearch, PBS, and Big Brothers and Big Sisters with our financal giving. Every so often you may catch us attending Sunday services at Casas Church in Oro Valley - however a drive up to Mt. Lemmon or to a local park is also a likely Sunday activity. Sally has always been a UofA fan since her Jr. and High School days here in Tucson - I am a long time Phoenix Suns fan and catch an International Rugby match on the TV when available. 
+      </h2> Sally and I have been married 13 years, and re-located to the Catalina Foothills on the north side of Tucson, AZ in late 2014. We have two amazing and active young boys that are the perfect illustration of what it would be like to argue with a younger version of yourself about breakfast cereal. We are both active in the day-to-day of our business and like most folks in Tucson enjoy the outdoors - Sally taking walks at Sabino Canyon, and myself enjoying the local Mtn. Bike trails. As a family we have a focus on helping where we can by supporting Tuscon based Bens Bells Project, St. Jude, CureSearch, PBS, and Big Brothers and Big Sisters with our financal giving. Every so often you may catch us attending Sunday services at Casas Church in Oro Valley - however a drive up to Mt. Lemmon or to a local park is also a likely Sunday activity. Sally has always been a UofA fan since her Jr. and High School days here in Tucson - I am a long time Phoenix Suns fan and catch an International Rugby match on TV when available. 
       
       <hr />
-      Personal Twitter: @strebel Politics Twitter: @strebelforaz Personal Website: http://saint-rebel.com Personal Facebook: Private Politics Facebook: https://www.facebook.com/strebelforaz Business Website: https://pagely.com
+      Personal Twitter: 
+      <a href="https://twitter.com/strebel" target="_blank">@strebel</a> Politics Twitter: <a href="https://twitter.com/strebelforaz" target="_blank">@strebelforaz</a> Personal Website: <a href="http://saint-rebel.com" target="_blank">http://saint-rebel.com</a> Personal Facebook: <em>Private</em> Politics Facebook: <a href="https://www.facebook.com/strebelforaz" target="_blank">https://www.facebook.com/strebelforaz</a> Business Website: <a href="https://pagely.com" target="_blank">https://pagely.com</a>
     </div>
   </div>
