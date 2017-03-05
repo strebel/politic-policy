@@ -16,14 +16,12 @@ categories: [ ]
       <li>
         Age 38
       </li>
+     
       <li>
-        BFA Visual Communications, NAU
+        Software - CEO
       </li>
       <li>
-        Software, CEO
-      </li>
-      <li>
-        Husband, Father
+        Husband + Father
       </li>
       <li>
         Registered Independent
@@ -61,13 +59,13 @@ We are both active in the day-to-day of our business and like most folks in Tuc
       
       <h2>
         Social Views
-      </h2> I am strongly to the political left on nearly all social issues such as a women's right to dictate her own health decisions, LGBT concerns, civil rights, and the respect for all religious and cultural view points as is most of my generation (Gen-X) that lived in at least a modest size city. In regards to the social and religious aspects of society I subscribe heavily to a "you be you - I'll be me" way of looking at things. Essentially as long as one's actions or behaviors do not negatively impact another, they should be free to think and practice whatever cultural custom or life philosophy they choose. An individuals negative actions should be judged in singularity, not as a representative of an entire population that is otherwise benign. There are bad people in the world. Some are Christian or Muslim, gay or straight, Hindu or Buddist, men or women, agnostic or Atheist, blonde or brunette. But most (what is a word for a segment so close to all to should just be called 'all') are good decent people and should be respected as such. 
+      </h2> I am strongly to the political left on nearly all social issues such as a women's right to dictate her own health decisions, LGBT concerns, civil rights, and the respect for all religious and cultural view points as is most of my generation (Gen-X) that lived in at least a modest size city. In regards to the social and religious aspects of society I subscribe heavily to a "you be you - I'll be me" way of looking at things. Essentially as long as one's actions or behaviors do not negatively impact another, they should be free to think and practice whatever cultural custom or life philosophy they choose. 
 
-There is no universal 'truth' for everyone. I have a sense of what feels right to me, and it may differ from what others feel is right for them, however we all come together as citizens of one nation - therein lies the bedrock and unity of our great melting pot society. Of many, one. I grew up under the eye of the conservative Mormon church, and now attend an evangelical Christian church a few times year. I do not identity as either yet I see the value in each and the warmth and kindness of the people that follow those ideologies. I feel it is beneficial for my children to have a foundational construct of values that the Judeo-Christian ideologies teach at a young age - yet my wish is they determine their own path as they mature. The world is progressing faster than some cultures, including ours here in the US, can cope at times. There is no rewinding the clock to the idealistic hetro-white dominated patriarchy of the 1950s  - the only way forward is to treat one another with the respect each of us deserves as humans and total respect of the rights accorded to all of us in our countries founding documents. I trust the scientific method more than any pundit, lobbyist, or politician - the data rarely lies. 
+There is no universal 'truth' for everyone. I have a sense of what feels right to me, and it may differ from what others feel is right for them, however we all come together as citizens of one nation - therein lies the bedrock and unity of our great melting pot society. Of many, one. 
+
       
       <hr />
-      Personal Twitter: 
-      <a href="https://twitter.com/strebel" target="_blank">@strebel</a> Politics Twitter: <a href="https://twitter.com/strebelforaz" target="_blank">@strebelforaz</a> Personal Website: <a href="http://saint-rebel.com" target="_blank">http://saint-rebel.com</a> Personal Facebook: <em>Private</em> Politics Facebook: <a href="https://www.facebook.com/strebelforaz" target="_blank">https://www.facebook.com/strebelforaz</a> Business Website: <a href="https://pagely.com" target="_blank">https://pagely.com</a>
+    
     </div>
   </div>
 </div>
